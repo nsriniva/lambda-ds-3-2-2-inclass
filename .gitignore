@@ -1,7 +1,8 @@
 
+# .gitignore file
+
 .DS_Store
 
 
 # ignore secret creds:
-
 .env
